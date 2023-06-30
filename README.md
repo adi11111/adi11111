@@ -10,9 +10,9 @@ Interpersonnel Skills:
 
 Specialties:
 ✲ Software Development
-✲ .NET Framework 1.1 to.NET Framework 4.7
-✲ .NET Core 3.0 in C#
-✲ ASP.NET Core 3.0
+✲ .NET Framework
+✲ .NET Core
+✲ ASP.NET Core 
 ✲ ASP.NET Web Api
 ✲ Angular 2 to Angular 10
 ✲ SQL Server
@@ -20,10 +20,10 @@ Specialties:
 ✲ LINQ
 ✲ Entityframework
 ✲ Javascript
-✲ JQuery
+✲ React
 ✲ AngularJs
 ✲ Crystal Report
-✲ Bootstrap
+✲ Bootstrap/ MUI
 ✲ Google Map
 ✲ HTML
 ✲ CSS
