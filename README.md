@@ -1,4 +1,4 @@
-Full Stack developer with 8+ years of experience in developing, managing and deploying scalable enterprise level Web applications. Developed 20+ applications from scratch at scaler. Experienced in different domains like Ecommerce, Insurance, ERPs etc. I am an enthusiastic, passionate and devoted to work individually or as a team player.
+Full Stack developer with 9+ years of experience in developing, managing and deploying scalable enterprise level Web applications. Developed 20+ applications from scratch at scaler. Experienced in different domains like Ecommerce, Insurance, ERPs etc. I am an enthusiastic, passionate and devoted to work individually or as a team player.
 Over the years, I've proven my ability to comprehend complex business requirements by developing and introducing new software that not only improves performance but also is delivered on time and is maintainable.
 
 Interpersonnel Skills:
